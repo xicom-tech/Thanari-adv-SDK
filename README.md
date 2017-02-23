@@ -5,11 +5,13 @@
 [![License](https://img.shields.io/cocoapods/l/Thanari-Adv-SDK.svg?style=flat)](http://cocoapods.org/pods/Thanari-Adv-SDK)
 [![Platform](https://img.shields.io/cocoapods/p/Thanari-Adv-SDK.svg?style=flat)](http://cocoapods.org/pods/Thanari-Adv-SDK)
 
-## Example
+A simple SDK by Thanari Advertisements to target your advertisements. It uses the technologies of iBeacons.
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+Requires iBeacons to test.
+
 
 ## Installation
 
@@ -22,7 +24,7 @@ pod "Thanari-Adv-SDK"
 
 ## Author
 
-abhay.shankar@xicom.biz, abhay.shankar@xicom.biz
+abhay.shankar@xicom.biz
 
 ## License
 
